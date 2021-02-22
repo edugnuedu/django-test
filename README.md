@@ -1,4 +1,4 @@
-Technologii:Technologii:
+Tehnologi:
 
 Python
 Django
